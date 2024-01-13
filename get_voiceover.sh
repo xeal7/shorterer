@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# HOW TO FIND SESSION ID:
-# 1. Open TikTok webapp www.TikTok.com
-# 2. Open dev tools
-# 3. Naviagte to "Application" section
-# 4. Go to storage --> cookies --> https://www.tiktok.com
-# 5. Search "sessionid"
-# 6. Copy value and use as argument
-
 FILE_NAME=$1
 SESSION_ID=$2
 
